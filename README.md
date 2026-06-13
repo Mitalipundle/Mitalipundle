@@ -1,25 +1,35 @@
 # 👋 Hi, I'm Mitali Pundle
 
-**Data Science | People Analytics | Machine Learning**
+**Data Analyst | Machine Learning | People Analytics | Business Intelligence**
 
 🎓 **M.Sc. Data Analytics** (Aug 2026) | Berlin School of Business and Innovation  
-📊 **5+ years** in People Analytics, BI Reporting, HR Systems  
-🚀 Passionate about **ML**, **AI-augmented development**, and **problem-solving**
+📊 **5+ years** in People Analytics, Business Intelligence, Data-Driven Operations  
+🚀 Bridging **HR domain expertise** with **modern data science & ML skills**
+
+*Expanding opportunities across Data Analytics, HR Analytics, Business Analysis, and BI roles*
 
 ---
 
-## 📌 About Me
+## 🎯 About Me
 
-- 🇩🇪 Based in **Berlin**, Germany
-- 🎯 Building **intelligent automation systems** with Claude API & ML
-- 💡 Expertise in **sentiment analysis**, **statistical testing**, **ATS optimization**
-- 🔬 Currently learning **agentic AI patterns** and **LLM workflows**
-- 📚 Background: **MBA HR** + **Bachelor Accounting**
-- 🗣️ Languages: English (C1) | German (B1)
+I'm a data professional who solves **business problems with data**, whether that's HR transformation, operational efficiency, or business analytics. 
+
+**Why I'm different:**
+- 🧠 **5+ years HR domain expertise** — I understand people data, workforce metrics, organizational challenges
+- 🤖 **Modern ML/AI skills** — Python, PyTorch, Claude API, not just Excel and Power BI
+- 📈 **Real business impact** — 92% efficiency gains, 95%+ ATS optimization, data quality frameworks
+- 🔧 **Technical depth** — SQL, Python, statistical testing, automation, LLM integration
+- 🌍 **Adaptable** — Can work with HR, Finance, Operations, or General Business teams
+
+**What I build:**
+- Intelligent data systems that replace manual processes
+- Dashboards that enable independent decision-making
+- Data quality frameworks that eliminate errors at scale
+- ML models that solve real business problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (I Know How to Use, Not Just List)
 
 ### 🧠 Data Science & ML
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -28,86 +38,76 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)]()
 
-### 💾 Databases & Data Engineering
+### 🤖 Modern AI & APIs
+[![Claude API](https://img.shields.io/badge/Claude%20API-0066FF?style=for-the-badge&logo=anthropic&logoColor=white)]()
+[![LLM Integration](https://img.shields.io/badge/LLM%20Workflows-FF6B35?style=for-the-badge)]()
+
+### 💾 Databases & Data Pipelines
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![ETL](https://img.shields.io/badge/ETL%20Pipelines-27AE60?style=for-the-badge)]()
 
-### 📊 BI & Analytics
+### 📊 BI & Analytics (Real Dashboards, Not Templates)
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)]()
-[![Qualtrics](https://img.shields.io/badge/Qualtrics-0066FF?style=for-the-badge)]()
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Excel](https://img.shields.io/badge/Excel%20(Advanced)-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Data Visualization](https://img.shields.io/badge/Data%20Viz-0288D1?style=for-the-badge)]()
 
-### 🤖 AI & APIs
-[![Claude API](https://img.shields.io/badge/Claude%20API-0066FF?style=for-the-badge&logo=anthropic&logoColor=white)]()
-[![LLM](https://img.shields.io/badge/LLM%20Integration-FF6B35?style=for-the-badge)]()
+### 💼 Enterprise Systems (Deep Knowledge)
+[![Workday HCM](https://img.shields.io/badge/Workday%20HCM-0066FF?style=for-the-badge)]()
+[![SuccessFactors](https://img.shields.io/badge/SuccessFactors-00C7FD?style=for-the-badge)]()
+[![SAP](https://img.shields.io/badge/SAP-0FAADC?style=for-the-badge)]()
 
-### 🛠️ Tools & Platforms
+### 🔧 Development & Collaboration
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 
-### 💼 Enterprise Systems
-[![Workday](https://img.shields.io/badge/Workday-0066FF?style=for-the-badge)]()
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)]()
+---
+
+## 🎯 Why This Matters
+
+### **For Data Analytics Roles:**
+I'm not just an analyst who reports numbers. I build systems that generate insights automatically.
+
+### **For HR Analytics Roles:**
+I understand HR challenges deeply (5+ years on the inside) AND have modern data science skills to solve them intelligently.
+
+### **For Business Analyst Roles:**
+I think in terms of business outcomes: efficiency, data quality, decision speed, stakeholder enablement.
 
 ---
 
-## 🎯 Domains & Skills
+## 🚀 Featured Projects
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B35?style=for-the-badge)]()
-[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E24AA?style=for-the-badge)]()
-[![NLP](https://img.shields.io/badge/NLP-3F51B5?style=for-the-badge)]()
-[![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-FF5722?style=for-the-badge)]()
-[![Statistical Testing](https://img.shields.io/badge/Statistical%20Testing-1976D2?style=for-the-badge)]()
-[![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-4CAF50?style=for-the-badge)]()
-[![People Analytics](https://img.shields.io/badge/People%20Analytics-9C27B0?style=for-the-badge)]()
-[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0288D1?style=for-the-badge)]()
-[![ATS Optimization](https://img.shields.io/badge/ATS%20Optimization-00796B?style=for-the-badge)]()
-[![Process Automation](https://img.shields.io/badge/Process%20Automation-FF9800?style=for-the-badge)]()
+### 🤖 Job Automation Platform with ML Scoring
+**Problem:** Manual job search took 4 hours/day  
+**Solution:** Built AI-powered system that scrapes 100+ jobs, ranks them with ML, customizes CVs using Claude API, generates 50+ PDFs daily
 
----
+- **Tech:** Python, Node.js, Claude Sonnet 4.5, ML scoring algorithm, PDF generation
+- **Results:** 50-100 jobs processed daily | 95%+ ATS match rate | 4 hours → 30 minutes saved
+- **Why it matters:** Shows ability to automate repetitive work + integrate modern AI + optimize for business outcomes
 
-## 📂 Featured Projects
-
-### 🚀 Job Automation Platform
-**Automated job scraper + ML scoring + AI CV editor using Claude Sonnet 4.5**
-
-- Web scraping from 8 job sources | ML ranking algorithm (0-100)
-- Claude API for CV customization | PDF generation | Interactive dashboard
-- Results: 50-100 jobs/day, 95%+ ATS match rate, 4 hrs → 30 min saved
-
-🔗 [Repository](https://github.com/mitalipundle/job-automation-ml)
+🔗 [Repository](https://github.com/mitalipundle/job-automation-ml) | [See the Architecture](https://github.com/mitalipundle/job-automation-ml#-architecture)
 
 ---
 
-### 🧠 German Employee Sentiment Analysis (Thesis)
-**PyTorch transformers on 10,000+ survey responses**
+### 🧠 German Employee Sentiment Analysis (Masters Thesis)
+**Problem:** Understanding employee sentiment at scale from survey data  
+**Solution:** Built PyTorch transformer models to classify sentiment from 10,000+ German employee responses
 
-- Sentiment classification with 57.5% accuracy (vs 40% baseline)
-- Qualtrics survey design & data preprocessing
-- Statistical testing for insight identification
-- Thesis submitted June 2026
-
----
-
-### 📊 Analytics Dashboard & ETL Pipeline (Eversana)
-**Power BI + SQL + Python automation for 500+ employees**
-
-- 10+ KPIs, A/B testing, variance analysis
-- 70-80% effort reduction (30 mins vs 6 hours)
-- Agile Scrum delivery | 2-week sprints | Jira tracking
-- 2023-2024
+- **Tech:** Python, PyTorch, transformers, NLP, statistical testing
+- **Results:** 57.5% accuracy (vs 40% baseline) | Identified key sentiment drivers
+- **Why it matters:** Combines HR domain understanding with cutting-edge ML techniques
 
 ---
 
-## 💡 What I'm Learning
+### 📊 Multi-Source Data Integration & Analytics Framework
+**Problem:** 500+ employee records scattered across 10+ sources, 6 hours/week manual reporting  
+**Solution:** Consolidated data using SQL + Python, built Power BI dashboards, automated validation
 
-- 🤖 **Agentic AI patterns** with Claude API & MCP servers
-- 🔄 **LLM workflows** and prompt engineering
-- 📈 **Advanced ML engineering** practices
-- 🏗️ **System design** for scalable data pipelines
+- **Tech:** SQL, Python, Power BI, data quality frameworks
+- **Results:** 92% time reduction (6 hrs → 30 mins) | 70% reduction in support tickets | Enabled 6 teams to work independently
+- **Why it matters:** Real-world data engineering that drives business efficiency
 
 ---
 
@@ -121,23 +121,95 @@
 
 ---
 
-## 💼 Work Experience Highlights
+## 💼 Work Experience Summary
 
-**People Analyst – BI & Data Analytics** | Eversana (2023-2024)
-- A/B testing on engagement surveys → 12% score improvement
-- 5 Power BI dashboards for 20+ stakeholders
-- 70-80% effort reduction through ETL automation
-- Agile Scrum: 100% sprint delivery on 5+ projects
+**5+ years** delivering data solutions across 3 continents:
 
-**People Analyst – BI & Data Analytics** | GS Lab (2022-2023)
-- Executive dashboards → 3 critical insights → 3-week time-to-fill reduction
-- Automated KPI reporting: 6 hours → 30 minutes (92% reduction)
-- Statistical analysis → compensation equity insights for 200+ employees
+- **Eversana** (2023-2024) — Built 5 Power BI dashboards for 500+ employees, 6 regions. Automated reporting (92% time savings). Managed data quality for 20+ stakeholders.
 
-**People Executive** | Newscape Consulting (2019-2021)
-- Analytics for 100+ employees (India + US)
-- Survey design & feedback frameworks
-- Informed 3 major HR policy changes
+- **GS Lab** (2022-2023) — SuccessFactors data optimization. Reduced reporting from 6 hours to 30 minutes. Improved accuracy from 78% → 99%.
+
+- **Newscape Consulting** (2019-2021) — HR data management for 100+ employees across 5 countries. Designed ERP workflows. Documented processes for independent team management.
+
+---
+
+## 🎯 What I'm Looking For
+
+**Roles that excite me:**
+- Data Analyst / Senior Analyst roles (technical depth + business impact)
+- HR Analytics / People Analytics roles (domain expertise + data science)
+- Business Analyst roles (if data-focused)
+- Data Engineer / BI Developer roles
+- Graduate/Intern programs in Data Science or Analytics
+
+**Where I work best:**
+- Organizations that value **data quality over data volume**
+- Teams that want to **automate instead of report**
+- Leaders who care about **business outcomes, not just dashboards**
+- Companies investing in **modern tech stack** (Python, ML, cloud)
+
+---
+
+## 📊 By The Numbers
+
+| Metric | Achievement |
+|--------|-------------|
+| **Reporting Automation** | 92% time reduction (6 hrs → 30 mins) |
+| **ATS Optimization** | 95%+ accuracy on CV customization |
+| **Data Quality** | 78% → 99% accuracy improvement |
+| **Support Reduction** | 70% fewer stakeholder escalations |
+| **Employee Coverage** | 500+ employees across 6 regions |
+| **Stakeholder Impact** | 20+ direct business stakeholders |
+| **Thesis Accuracy** | 57.5% (vs 40% baseline) on sentiment classification |
+
+---
+
+## 📚 Key Expertise Areas
+
+### **Data Science & ML**
+- Python (pandas, scikit-learn, PyTorch)
+- Natural Language Processing & transformers
+- Statistical testing & A/B testing
+- Sentiment analysis & classification
+- ML algorithm design & optimization
+
+### **Data Engineering & Databases**
+- SQL (MySQL, PostgreSQL) — complex queries, optimization
+- ETL pipelines & data validation
+- Data quality frameworks
+- Database administration & documentation
+
+### **Business Intelligence**
+- Power BI (DAX, data modeling, dashboard design)
+- Advanced Excel (automation, pivot tables, data visualization)
+- KPI definition & tracking
+- Stakeholder reporting & communication
+
+### **HR & Business Domain**
+- HR systems (Workday, SuccessFactors, SAP)
+- People analytics & workforce metrics
+- Organizational data & reporting
+- HR process automation
+- Business impact thinking
+
+### **Modern AI & Tools**
+- Claude API & LLM integration
+- AI-augmented development
+- Modern automation approaches
+- Agentic AI patterns
+
+---
+
+## 💡 Philosophy
+
+> **"The best analysis is the one nobody has to ask for."**
+
+I don't just build dashboards and wait for questions. I build systems that:
+- 🤖 Automate recurring work
+- 🧠 Anticipate stakeholder needs
+- 📈 Show business impact in dollars/time/efficiency
+- 🔧 Document themselves so others can maintain them
+- 🎯 Free up human time for strategy, not reporting
 
 ---
 
@@ -149,16 +221,8 @@
 
 ---
 
-## ✨ Fun Facts
-
-- 🚀 Built a job automation system that processes 100+ jobs daily
-- 📊 Analyzed 10,000+ employee sentiment responses for thesis
-- 🌍 Worked across 3 countries (India, USA, Germany)
-- 🎯 Lover of data-driven insights and problem-solving
-- 📚 Continuous learner in ML, AI, and modern development practices
-
----
-
-**"Data tells stories. I help organizations listen and act."** 📈
+**Open to:** Data Analyst | HR Analytics | Business Analyst | Data Engineer roles  
+**Location:** Berlin, Germany | Remote OK  
+**Availability:** Immediately (Werkstudent) or Post-August 2026  
 
 *Last updated: June 2026*
